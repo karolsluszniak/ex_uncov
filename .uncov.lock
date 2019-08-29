@@ -1,0 +1,4 @@
+[
+  {ExUncov, 92},
+  {Mix.Tasks.Uncov, 2},
+]

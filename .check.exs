@@ -1,0 +1,5 @@
+[
+  tools: [
+    {:dialyzer, false}
+  ]
+]
